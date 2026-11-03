@@ -8,20 +8,8 @@ hands-on C++ coding and implementation.
 1. **Basic C++ Programs** – Fundamentals of C++.
 2. **Classes and Objects** – Static members, scope resolution, constructors, and destructors.
 3. **Inheritance** – Different types and implementation of inheritance.
-   OOPS_Elective_Programs/
-│
-├── Programs/
-│   ├── Basic Programs/
-│   ├── Classes and Objects/
-│   ├── Constructors and Destructors/
-│   ├── Inheritance/
-│   ├── Polymorphism/
-│   ├──  Exception Handling/
-│
-├── Screenshots of errors/   # Optional learning/debugging screenshots
-├── .gitignore
-└── README.md
-```
+4. **Polymorphism**
+5. **Exception Handling**
 
 
 ## 🎓 Student Details
