@@ -16,10 +16,10 @@ hands-on C++ coding and implementation.
 
 | Field | Details |
 |---|---|
-| **Name** |  Rajeshwari S Aravalli |
-| **Roll No.** | 603 |
+| **Name** |  Asha p Honakamble |
+| **Roll No.** | 601 |
 | **Division** | F |
-| **USN** | 01FE23BEC302 |
+| **USN** | 01FE23BEC300 |
 | **Semester** | VII |
 | **University** | KLE Technological University |
 
