@@ -11,12 +11,12 @@ hands-on C++ coding and implementation.
    OOPS_Elective_Programs/
 │
 ├── Programs/
-│   ├── Basic Programs
-│   ├── Classes and Objects
-│   ├── Constructors and Destructors
-│   ├── Inheritance
-│   ├── Polymorphism
-│   ├──  Exception Handling
+│   ├── Basic Programs/
+│   ├── Classes and Objects/
+│   ├── Constructors and Destructors/
+│   ├── Inheritance/
+│   ├── Polymorphism/
+│   ├──  Exception Handling/
 │
 ├── Screenshots of errors/   # Optional learning/debugging screenshots
 ├── .gitignore
